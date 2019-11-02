@@ -1,4 +1,4 @@
-# Lezione 04
+# Lezione 05
 311 Verona, 4 novembre 2019
 ## Dimensionality Reduction e Clustering
 Dataset can be downloaded [here](https://www.kaggle.com/nphantawee/pump-sensor-data).
